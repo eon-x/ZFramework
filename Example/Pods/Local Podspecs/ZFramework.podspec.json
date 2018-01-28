@@ -1,0 +1,22 @@
+{
+  "name": "ZFramework",
+  "version": "0.1.0",
+  "summary": "A short description of ZFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/eon-x/ZFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "eon-x": "819074596@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/eon-x/ZFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZFramework/Classes/**/*"
+}
